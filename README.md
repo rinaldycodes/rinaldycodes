@@ -20,9 +20,10 @@ I am `Rinaldy`, Full-Stack Engineer from Bekasi, Indonesia.
 
 **Open Source**
 
-- [NetizenTeknologi/express-js-with-auth](https://github.com/Netizen-Teknologi/express-js-with-auth): Express.js kit with auth and database MySQL using Sequelize
+- [NetizenTeknologi/express-js-with-auth](https://github.com/Netizen-Teknologi/express-js-with-auth): Express.js kit with auth and database MySQL using Sequelize.
+- [Generate Avatar using javascript](https://github.com/Netizen-Teknologi/avatar-placeholder): A lightweight package to generate avatar or initial name images using JavaScript.
 
-## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
+## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Technologies I code with:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
@@ -40,4 +41,5 @@ I am `Rinaldy`, Full-Stack Engineer from Bekasi, Indonesia.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
 [![Rinaldy Ramadhan](https://img.shields.io/badge/-Rinaldy_Ramadhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rinaldy-ramadhan-1887b31aa/)](https://www.linkedin.com/in/rinaldy-ramadhan-1887b31aa/)
+[![Rinaldy Dev](https://img.shields.io/badge/-Rinaldy-000000?style=flat-square&logo=Tiktok&logoColor=pink&link=https://www.tiktok.com/@rinaldy.dev)](https://www.tiktok.com/@rinaldy.dev)
 
