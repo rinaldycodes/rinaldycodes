@@ -14,7 +14,7 @@ I am `Rinaldy`, Full-Stack Engineer from Bekasi, Indonesia.
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
 - [April 2021 - NOW](https://www.linkedin.com/): Full-Stack Engineer & Mobile Developer @ Company
-- [Sep 2019 - 2021](https://www.portofolio.aldyweb.com/): Full-Stack Engineer @ Home
+- [Sep 2019 - 2021](https://www.portofolio.aldyweb.com/): Full-Stack Developer Laravel @ Home
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
