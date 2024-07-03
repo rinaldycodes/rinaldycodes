@@ -43,3 +43,7 @@ I am `Rinaldy`, Full-Stack Engineer from Bekasi, Indonesia.
 [![Rinaldy Ramadhan](https://img.shields.io/badge/-Rinaldy_Ramadhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rinaldy-ramadhan-1887b31aa/)](https://www.linkedin.com/in/rinaldy-ramadhan-1887b31aa/)
 [![Rinaldy Dev](https://img.shields.io/badge/-Rinaldy-000000?style=flat-square&logo=Tiktok&logoColor=pink&link=https://www.tiktok.com/@rinaldy.dev)](https://www.tiktok.com/@rinaldy.dev)
 
+
+## Support me on: 
+- [Trakteer](https://trakteer.id/rinaldydev/tip)
+- [Tiktok](https://www.tiktok.com/@rinaldy.dev) buy something
