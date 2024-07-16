@@ -1,3 +1,5 @@
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frinaldycodes&label=PENGUNJUNG&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frinaldycodes)
+
 ## Hi there! 👋🏻
 
 I am `Rinaldy`, Full-Stack Engineer from Bekasi, Indonesia.
