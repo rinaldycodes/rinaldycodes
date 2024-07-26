@@ -48,4 +48,5 @@ I am `Rinaldy`, Full-Stack Engineer from Bekasi, Indonesia.
 
 ## Support me on: 
 - [Trakteer](https://trakteer.id/rinaldydev/tip)
-- [Tiktok](https://www.tiktok.com/@rinaldy.dev) buy something
+- [Tiktok](https://www.tiktok.com/@rinaldy.dev) follow / buy my showcase
+- [Another Support?](https://api.whatsapp.com/send?phone=6285161070204&text=Hello%20Rinaldy.%20I%20want%20support%20you%2C%20can%20i%20using%20another%20%20platform.%20anyway%20i%20got%20your%20number%20from%20github)
